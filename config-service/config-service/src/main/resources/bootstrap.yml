@@ -1,0 +1,8 @@
+server:
+  port:8081
+
+srping:
+  cloud:
+    config:
+      server:
+        searchPath: D:\PROYECTO_JOSE\config-data
